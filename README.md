@@ -1,5 +1,5 @@
 
-entry>
+<entry>
 <title>Preventing XSS attacks when embedding JSON in HTML</title>
 <link href="http://sophiebits.com/2012/08/03/preventing-xss-json.html"/>
 <updated>2012-08-03T00:00:00-07:00</updated>
